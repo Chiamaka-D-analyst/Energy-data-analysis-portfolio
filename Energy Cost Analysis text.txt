@@ -1,0 +1,13 @@
+Energy Cost Analysis Project
+
+This project analyzes the cost per MWh of different energy sources
+(Wind, Solar, Biogas) using Python and pandas.
+
+### Skills used:
+- Python
+- Pandas
+- Data cleaning
+- Cost per MWh calculation
+- Data visualization
+
+This is my first project and is part of my energy analyst learning journey.
